@@ -12,4 +12,4 @@ comit
 8）client stub接收到消息，并进行解码；
 9）服务消费方得到最终结果。
 
-里氏代换原则（Liskov Substitution Principle）:子类型必须能够替换掉它们的父类型。
+开闭原则（Open Close Principle）:一个软件实体如类、模块和函数应该对扩展开放，对修改关闭。
