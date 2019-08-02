@@ -11,3 +11,5 @@ comit
 7）server stub将返回结果打包成消息并发送至消费方；
 8）client stub接收到消息，并进行解码；
 9）服务消费方得到最终结果。
+
+开闭原则（Open Close Principle）:一个软件实体如类、模块和函数应该对扩展开放，对修改关闭。
